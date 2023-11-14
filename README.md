@@ -78,6 +78,4 @@ Je suis un étudiant en génie logiciel passionné par la résolution de problè
   </a>
 </div>
 
-### ⚡ Anecdote amusante
 
-Je suis passionné par les jeux vidéo et j'adore explorer de nouveaux mondes virtuels en dehors de ma vie de développeur.
