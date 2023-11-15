@@ -64,7 +64,6 @@ Je suis un étudiant en génie logiciel passionné par la résolution de problè
 ### 📊 Statistique
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssrra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistiques GitHub"/>
   </div>
   <div align="center" style="margin-top: 20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssrra&theme=radical&layout=compact&include_all_commits=true&count_private=true" alt="Langages les plus utilisés" />
