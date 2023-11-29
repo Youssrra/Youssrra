@@ -2,9 +2,7 @@
 
 Je suis un étudiant en génie logiciel passionné par la résolution de problèmes informatiques. Mon objectif est de continuer à développer mes compétences et à relever de nouveaux défis dans le domaine de l'informatique
 
-### Ce que j'aime travailler avec
-
-#### Langages de Programmation
+## 🚀 Languages and Tools:
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -15,8 +13,6 @@ Je suis un étudiant en génie logiciel passionné par la résolution de problè
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </div>
-
-#### Frameworks et Outils
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
@@ -34,8 +30,6 @@ Je suis un étudiant en génie logiciel passionné par la résolution de problè
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div>
 
-#### Autres Technologies
-
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
@@ -49,8 +43,6 @@ Je suis un étudiant en génie logiciel passionné par la résolution de problè
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
-
-### Bases de Données
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
