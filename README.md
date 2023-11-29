@@ -2,7 +2,7 @@
 
 Je suis un étudiant en génie logiciel passionné par la résolution de problèmes informatiques. Mon objectif est de continuer à développer mes compétences et à relever de nouveaux défis dans le domaine de l'informatique
 
-## 🚀 Languages and Tools:
+## 🚀Langues et outils :
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
