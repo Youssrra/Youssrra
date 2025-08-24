@@ -105,19 +105,14 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousraABID&theme=nightowl&show_icons=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousraABID&theme=nightowl&hide_border=false"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YousraABID&theme=nightowl&hide_border=false&langs_count=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousraABID&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=YousraABID&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
+
 
 ---
 
-<!-- Visitor Counter -->
-<div align="center">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/YousraABID/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
 
 <!-- ✨ Neon Line -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
