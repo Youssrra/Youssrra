@@ -109,8 +109,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,python,mysql,mongodb,docker,jenkins,git,linux,react" />
 </p>
 
-<img src="https://leetcard.jacoblin.cool/Youssrra?theme=dark&ext=contest" />
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
