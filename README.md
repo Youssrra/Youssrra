@@ -7,10 +7,9 @@
 </h1>
 
 ---
-
 ## 👩‍💻 About Me  
 
-<img align="right" width=220px alt="coding gif" src="https://www.pinterest.com/virginiaestrell/github/"/>
+<img align="right" width=220px alt="coding gif" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/"/>
 
 - 🎓 **Computer Science Engineer**  
 - 🖥️ Full-stack developer (**Angular + Spring Boot + MongoDB**)  
