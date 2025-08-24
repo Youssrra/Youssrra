@@ -1,34 +1,44 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-<h1><b>Hi there, I'm </b><a href="https://github.com/YousraABID">Yousra ABID</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
+<!-- Neon Line -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<!-- Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0CF7F7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Yousra+ABID+👩‍💻;Full-Stack+Java+Developer+🚀;Always+Learning+%26+Building+💡;Let's+Connect+🤝">
+</h1>
+
+<!-- About Me -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Coding" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science Engineer & Full-Stack Java Developer**, passionate about building impactful tools.  
-- 🖥️ Skilled in **Angular**, **Spring Boot**, **MongoDB**, **DevOps**, **AI**  
-- 🌍 Experience with international projects (Tunisia – Canada collaboration)  
-- 💳 Integrated **PayPal** & **Stripe** for payment systems  
-- 🚀 Always curious, motivated, and eager to join innovative projects  
-- 🎮 Gamer at heart, 🎵 music lover, and 🎸 hobbyist musician  
+I am a **Computer Science Engineer & Full-Stack Developer**, passionate about crafting scalable and impactful solutions.  
 
-- 📫 Reach out: <a href="mailto:yousra.abid@esprit.tn">yousra.abid@esprit.tn</a>  
-- 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/yousra-abid-b779281b5/)  
+- 🖥️ Strong in **Angular**, **Spring Boot**, **MongoDB**, **AI** & **DevOps**  
+- 💳 Implemented **PayPal** & **Stripe** integrations  
+- 🌍 Worked on **international projects** (Tunisia 🇹🇳 – Canada 🇨🇦)  
+- 🎯 Currently exploring **TypeScript**, **Microservices**, and **Cloud**  
+- 🎮 Gamer at heart, 🎵 music addict, 🎸 guitar enthusiast  
 
-<br>
+📫 Reach out: <a href="mailto:yousra.abid@esprit.tn">yousra.abid@esprit.tn</a>  
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/yousra-abid-b779281b5/)  
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=YousraABID&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>
+---
+
+<!-- Certifications -->
+<h2 align="center">🏅 Certifications</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F25D27?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM%20AI%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20Essentials-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+
+---
 
 <!-- Skills -->
-<br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡ Skills</h2>
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -58,31 +68,63 @@ I am a **Computer Science Engineer & Full-Stack Java Developer**, passionate abo
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
-<br>
+---
+
+<!-- Best Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Skills Management Platform</h3>
+      <div align="center">
+        <p><strong>Angular + Spring Boot + MongoDB</strong></p>
+        <p>Platform with group training, real-time chat, certification exams & payment (PayPal/Stripe).</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Car Rental App</h3>
+      <div align="center">
+        <p><strong>Android Studio + Firebase</strong></p>
+        <p>Mobile app for car rentals with real-time data & online payment integration.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Real Estate Listings</h3>
+      <div align="center">
+        <p><strong>Angular + Spring Boot + Python</strong></p>
+        <p>Property platform with advanced search & web scraping for smart listings.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Library Dashboard</h3>
+      <div align="center">
+        <p><strong>Node.js + Angular + Spring Boot</strong></p>
+        <p>Microservice-based dashboard for library management with Dockerized environment.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YousraABID&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousraABID&theme=nightowl&hide_border=false" alt="Yousra streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YousraABID&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=YousraABID&theme=nightowl&show_icons=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousraABID&theme=nightowl&hide_border=false"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YousraABID&theme=nightowl&hide_border=false&langs_count=8"/>
 </p>
 
+---
+
 <!-- Visitor Counter -->
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/YousraABID/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<!-- Neon Line -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
