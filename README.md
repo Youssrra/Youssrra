@@ -110,11 +110,11 @@
 </p>
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YousraABID&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssrra&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YousraABID&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Youssrrastyle=for-the-badge&color=blue" alt="profile views"/>
 </p>
 
 
