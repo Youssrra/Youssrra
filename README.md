@@ -108,14 +108,28 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,python,mysql,mongodb,docker,jenkins,git,linux,react" />
 </p>
-<h2 align="center">🏆 GitHub Trophies</h2>
+
+<h2 align="center">🧩 Competitive Programming</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssrra&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://leetcard.jacoblin.cool/Youssrra?theme=dark&ext=contest" />
+</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+<h2 align="center">🌟 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=Youssrra" />
+</p>
+<h2 align="center">📊 Developer Metrics</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssrra&theme=tokyonight" />
+</p>
+<h2 align="center">🎵 Now Playing</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youssrrastyle=for-the-badge&color=blue" alt="profile views"/>
-</p>
+
 
 
 
