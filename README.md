@@ -113,6 +113,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Youssrra?theme=dark&ext=contest" />
 </p>
+
+<img src="https://leetcard.jacoblin.cool/Youssrra?theme=dark&ext=contest" />
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
@@ -124,10 +127,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssrra&theme=tokyonight" />
 </p>
-<h2 align="center">🎵 Now Playing</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
-</p>
+
 
 
 
