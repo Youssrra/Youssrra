@@ -104,11 +104,11 @@
 
 ## 📊 GitHub Stats  
 
+<h2 align="center">🛠️ My Tech Universe</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousraABID&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=YousraABID&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,python,mysql,mongodb,docker,jenkins,git,linux,react" />
 </p>
+
 
 
 ---
