@@ -111,7 +111,7 @@
 
 <h2 align="center">🧩 Competitive Programming</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Youssrra?theme=dark&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/username=Youssrra?theme=dark&ext=contest" />
 </p>
 
 <img src="https://leetcard.jacoblin.cool/Youssrra?theme=dark&ext=contest" />
@@ -119,10 +119,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-<h2 align="center">🌟 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=Youssrra" />
-</p>
+
 <h2 align="center">📊 Developer Metrics</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssrra&theme=tokyonight" />
