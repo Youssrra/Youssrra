@@ -109,11 +109,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,python,mysql,mongodb,docker,jenkins,git,linux,react" />
 </p>
 
-<h2 align="center">🧩 Competitive Programming</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/username=Youssrra?theme=dark&ext=contest" />
-</p>
-
 <img src="https://leetcard.jacoblin.cool/Youssrra?theme=dark&ext=contest" />
 
 <p align="center">
