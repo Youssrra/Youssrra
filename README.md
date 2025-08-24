@@ -109,10 +109,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,python,mysql,mongodb,docker,jenkins,git,linux,react" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 <h2 align="center">📊 Developer Metrics</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssrra&theme=tokyonight" />
