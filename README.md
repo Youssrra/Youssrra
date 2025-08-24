@@ -1,37 +1,36 @@
-<!-- Neon Line -->
+<!-- ✨ Neon Line -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- Typing Intro -->
+<!-- 💫 Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0CF7F7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Yousra+ABID+👩‍💻;Full-Stack+Java+Developer+🚀;Always+Learning+%26+Building+💡;Let's+Connect+🤝">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0CF7F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousra+ABID+👩‍💻;Full-Stack+Java+Developer+🚀;Always+Learning+Always+Building+💡;Welcome+to+my+GitHub+🌍">
 </h1>
-
-<!-- About Me -->
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About me***
-
-<img align="right" width=200px alt="Coding" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-
-I am a **Computer Science Engineer & Full-Stack Developer**, passionate about crafting scalable and impactful solutions.  
-
-- 🖥️ Strong in **Angular**, **Spring Boot**, **MongoDB**, **AI** & **DevOps**  
-- 💳 Implemented **PayPal** & **Stripe** integrations  
-- 🌍 Worked on **international projects** (Tunisia 🇹🇳 – Canada 🇨🇦)  
-- 🎯 Currently exploring **TypeScript**, **Microservices**, and **Cloud**  
-- 🎮 Gamer at heart  
-- 📚 Bookworm who actually enjoys getting lost in reading  
-- ✈️ Always up for discovering new cultures (when I’m not coding)  
-
-📫 Reach out: <a href="mailto:yousra.abid@esprit.tn">yousra.abid@esprit.tn</a>  
-🔗 Connect: [LinkedIn](https://www.linkedin.com/in/yousra-abid-b779281b5/)  
-
 
 ---
 
-<!-- Certifications -->
-<h2 align="center">🏅 Certifications</h2>
+## 👩‍💻 About Me  
+
+<img align="right" width=220px alt="coding gif" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+
+- 🎓 **Computer Science Engineer**  
+- 🖥️ Full-stack developer (**Angular + Spring Boot + MongoDB**)  
+- ⚡ Experience with **real projects**: skills management platform, call-for-tenders, dashboards, mobile apps  
+- 💳 Payment integration with **PayPal** & **Stripe**  
+- 🚀 Always curious, eager to contribute to impactful projects  
+- 🎮 Gamer at heart  
+- 📚 Bookworm (yes, I enjoy reading for real 😅)  
+- ✈️ Explorer spirit – always up for discovering new cultures  
+
+📫 Reach out: [yousra.abid@esprit.tn](mailto:yousra.abid@esprit.tn)  
+🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/yousra-abid-b779281b5/)  
+
+---
+
+## 🏅 Certifications  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F25D27?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Foundations-F25D27?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL%20Associate-311C87?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM%20AI%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -40,10 +39,9 @@ I am a **Computer Science Engineer & Full-Stack Developer**, passionate about cr
 
 ---
 
-<!-- Skills -->
-<h2 align="center">⚡ Skills</h2>
+## ⚡ Skills  
 
-###### Languages & Syntax:
+###### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -66,54 +64,47 @@ I am a **Computer Science Engineer & Full-Stack Developer**, passionate about cr
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-###### DevOps:
+###### DevOps & Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<!-- Best Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects  
+
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">Skills Management Platform</h3>
-      <div align="center">
-        <p><strong>Angular + Spring Boot + MongoDB</strong></p>
-        <p>Platform with group training, real-time chat, certification exams & payment (PayPal/Stripe).</p>
-      </div>
+      <p align="center"><strong>Angular + Spring Boot + MongoDB</strong></p>
+      <p>A full platform for group training, chat, certifications & payment (PayPal/Stripe).</p>
     </td>
     <td width="50%">
       <h3 align="center">Car Rental App</h3>
-      <div align="center">
-        <p><strong>Android Studio + Firebase</strong></p>
-        <p>Mobile app for car rentals with real-time data & online payment integration.</p>
-      </div>
+      <p align="center"><strong>Android Studio + Firebase</strong></p>
+      <p>Mobile app with real-time rentals & online payment integration.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Real Estate Listings</h3>
-      <div align="center">
-        <p><strong>Angular + Spring Boot + Python</strong></p>
-        <p>Property platform with advanced search & web scraping for smart listings.</p>
-      </div>
+      <p align="center"><strong>Angular + Spring Boot + Python</strong></p>
+      <p>Property listings with advanced search & scraping engine.</p>
     </td>
     <td width="50%">
       <h3 align="center">Library Dashboard</h3>
-      <div align="center">
-        <p><strong>Node.js + Angular + Spring Boot</strong></p>
-        <p>Microservice-based dashboard for library management with Dockerized environment.</p>
-      </div>
+      <p align="center"><strong>Node.js + Angular + Spring Boot</strong></p>
+      <p>Microservice-based library dashboard with Docker support.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- Github Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YousraABID&theme=nightowl&show_icons=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousraABID&theme=nightowl&hide_border=false"/>
@@ -129,5 +120,5 @@ I am a **Computer Science Engineer & Full-Stack Developer**, passionate about cr
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 
-<!-- Neon Line -->
+<!-- ✨ Neon Line -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
