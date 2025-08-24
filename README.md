@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me  
 
-<img align="right" width=220px alt="coding gif" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=220px alt="coding gif" src="https://www.pinterest.com/virginiaestrell/github/"/>
 
 - 🎓 **Computer Science Engineer**  
 - 🖥️ Full-stack developer (**Angular + Spring Boot + MongoDB**)  
