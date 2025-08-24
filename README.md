@@ -17,10 +17,13 @@ I am a **Computer Science Engineer & Full-Stack Developer**, passionate about cr
 - 💳 Implemented **PayPal** & **Stripe** integrations  
 - 🌍 Worked on **international projects** (Tunisia 🇹🇳 – Canada 🇨🇦)  
 - 🎯 Currently exploring **TypeScript**, **Microservices**, and **Cloud**  
-- 🎮 Gamer at heart, 🎵 music addict, 🎸 guitar enthusiast  
+- 🎮 Gamer at heart  
+- 📚 Bookworm who actually enjoys getting lost in reading  
+- ✈️ Always up for discovering new cultures (when I’m not coding)  
 
 📫 Reach out: <a href="mailto:yousra.abid@esprit.tn">yousra.abid@esprit.tn</a>  
 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/yousra-abid-b779281b5/)  
+
 
 ---
 
