@@ -3,7 +3,7 @@
 
 <!-- 💫 Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0CF7F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousra+ABID+👩‍💻;Full-Stack+Java+Developer+🚀;Always+Learning+Always+Building+💡;Welcome+to+my+GitHub+🌍">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=E6E6FA&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousra+ABID+👩‍💻;Full-Stack+Java+Developer+🚀;Always+Learning+Always+Building+💡;Welcome+to+my+GitHub+🌍">
 </h1>
 
 ---
