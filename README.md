@@ -17,7 +17,7 @@
 - 💳 Payment integration with **PayPal** & **Stripe**  
 - 🚀 Always curious, eager to contribute to impactful projects  
 - 🎮 Gamer at heart  
-- 📚 Bookworm (yes, I enjoy reading for real 😅)  
+- 📚 Bookworm, exploring ideas beyond code
 - ✈️ Explorer spirit – always up for discovering new cultures  
 
 📫 Reach out: [yousra.abid@esprit.tn](mailto:yousra.abid@esprit.tn)  
